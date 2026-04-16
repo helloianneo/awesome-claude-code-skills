@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [AuraKit](https://github.com/smorky850612/Aurakit) | smorky850612 | 强推 | 全栈开发工作流：46 种模式（BUILD/FIX/CLEAN/DEPLOY/REVIEW/TDD/QA/DEBUG），23 个子代理，6 层安全防护，~55% 令牌节省 | `npx @smorky85/aurakit` |
 
 ---
 
