@@ -182,6 +182,8 @@ npx skills list
 
 ## 怎么选 Skill
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ expert AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. One-click install, visual dashboard, skill doctor.
+
 装太多 Skill 反而会让 Claude Code 变慢或行为混乱。建议：
 
 **第一步：装 3 个基础 Skill**
