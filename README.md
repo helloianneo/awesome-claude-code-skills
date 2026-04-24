@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **Skills宝 (skilery.com)** | 国内 AI 技能市场，一站式搜索安装 Claude Code/OpenCode 等多平台 | [skilery.com](https://skilery.com) |
 
 ---
 
@@ -235,6 +236,7 @@ npx skills add vercel-labs/skills@find-skills
 
 - [obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) — Obsidian + Claude AI 个人知识库搭建指南
 - [claude-code-handbook](https://github.com/helloianneo/claude-code-handbook) — Claude Code 高阶使用手册
+- [ai-skill](https://github.com/anomalyco/ai-skill) — AI 技能发现与管理系统
 
 ---
 
