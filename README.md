@@ -236,6 +236,7 @@ npx skills add vercel-labs/skills@find-skills
 
 - [obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) — Obsidian + Claude AI 个人知识库搭建指南
 - [claude-code-handbook](https://github.com/helloianneo/claude-code-handbook) — Claude Code 高阶使用手册
+- [ai-skill](https://github.com/anomalyco/ai-skill) — AI 技能发现与管理系统
 
 ---
 
