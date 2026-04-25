@@ -85,6 +85,7 @@ npx skills list
 | [TypeUI Design Skills](https://www.typeui.sh/design-skills) | TypeUI | 可选 | 手工 skill 文件，复现特定视觉风格 | `npx typeui.sh pull [name]` |
 | [Design.md Generator](https://github.com/google-labs-code/stitch-skills) | Google Labs | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范 | `npx skills add google-labs-code/stitch-skills@design-md` |
 | [Brainstorming](https://github.com/obra/superpowers) | obra | 强推 | 验证设计方案后才允许写代码，防止 AI 乱写 | `npx skills add obra/superpowers@brainstorming` |
+| [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | MohamedAbdallah-14 | 好用 | MCP server: 30+ 图像模型生成 app icons / OG images / logos，免 API Key 起步 | `npx prompt-to-asset` |
 
 ---
 
@@ -140,6 +141,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [unslop](https://github.com/MohamedAbdallah-14/unslop) | MohamedAbdallah-14 | 好用 | 发布前剔除 AI 写作模式：套话开场 / 陈词滥调 / 冗余对冲，代码和 URL 原样保留 | `npm install -g unslop` |
 
 ---
 
