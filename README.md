@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **Claude Code Armory** | aptratcn 维护，46个零依赖实战技能，安全/成本/可靠性全覆盖 | [GitHub](https://github.com/aptratcn/claude-code-armory) |
 
 ---
 
