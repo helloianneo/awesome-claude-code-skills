@@ -40,6 +40,7 @@ npx skills list
 - [动效 / 视频](#动效--视频)
 - [营销 / SEO](#营销--seo)
 - [代码质量](#代码质量)
+- [安全 / 成本优化](#安全--成本优化)
 - [工作流 / 方法论](#工作流--方法论)
 - [无障碍](#无障碍)
 - [合集 / 导航站](#合集--导航站)
@@ -140,6 +141,26 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+
+---
+
+## 安全 / 成本优化
+
+保护你的 Agent，控制成本，防止意外。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [MCP Docker Cleaner](https://github.com/aptratcn/mcp-docker-cleaner) | aptratcn | 强推 | 清理 MCP 遗留的僵尸 Docker 容器，防止资源泄漏 | 复制 SKILL.md |
+| [Cognitive Debt Guard](https://github.com/aptratcn/cognitive-debt-guard) | aptratcn | 强推 | 防止 AI 生成代码的「认知债务」，事故率 +23.5% 的根因 | 复制 SKILL.md |
+| [Prompt Guard](https://github.com/aptratcn/prompt-guard) | aptratcn | 强推 | 检测和抵抗提示注入攻击，安全优先的 AI 交互 | 复制 SKILL.md |
+| [Error Doctor](https://github.com/aptratcn/error-doctor) | aptratcn | 好用 | 停止盲目重试，系统性错误恢复，节省 token | 复制 SKILL.md |
+| [Token Filter](https://github.com/aptratcn/skill-token-filter) | aptratcn | 好用 | 命令输出 token 消耗减少 60-90% | 复制 SKILL.md |
+| [API Rate Guard](https://github.com/aptratcn/skill-api-rate-guard) | aptratcn | 好用 | 防止 API 超限被封，多 Provider 降级 | 复制 SKILL.md |
+
+**为什么这些重要：**
+- MCP Docker 泄漏：有人在笔记本上发现 66 个僵尸容器（[FutureSearch 报告](https://futuresearch.ai/blog/mcp-leaks-docker-containers/)）
+- 认知债务：AI 使代码事故率上升 23.5%（[Cortex 2026](https://www.cortex.io/post/state-of-ai-code-quality-2026)）
+- 提示注入：87% 的 skill 通过安全扫描但仍会降低 Agent 安全性（[FaberLens 研究](https://faberlens.ai/blog/skill-safety-problem)）
 
 ---
 
