@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [agenttrace Session Audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | luoyuctl | 好用 | 本地审计 Claude Code / Codex / Gemini 等会话的成本、工具调用、失败和 CI 健康门禁 | `npx skills add luoyuctl/agenttrace@agenttrace-session-audit` |
 
 ---
 
