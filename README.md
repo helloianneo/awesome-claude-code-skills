@@ -39,6 +39,7 @@ npx skills list
 - [前端开发](#前端开发)
 - [动效 / 视频](#动效--视频)
 - [营销 / SEO](#营销--seo)
+- [写作 / 创作](#写作--创作)
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
 - [无障碍](#无障碍)
@@ -129,6 +130,16 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+
+---
+
+## 写作 / 创作
+
+用 AI 辅助创意写作。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | worldwonderer | 强推 | 13 skills + 6 agents 覆盖长篇/短篇网文全流程（扫榜/拆文/写作/去AI味/封面/导入） | `npx skills add worldwonderer/oh-story-claudecode` |
 
 ---
 
