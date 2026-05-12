@@ -39,7 +39,6 @@ npx skills list
 - [前端开发](#前端开发)
 - [动效 / 视频](#动效--视频)
 - [营销 / SEO](#营销--seo)
-- [写作 / 创作](#写作--创作)
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
 - [无障碍](#无障碍)
@@ -133,16 +132,6 @@ npx skills list
 
 ---
 
-## 写作 / 创作
-
-用 AI 辅助创意写作。
-
-| Skill | 作者 | 推荐 | 一句话 | 安装 |
-|-------|------|------|--------|------|
-| [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | worldwonderer | 强推 | 13 skills + 6 agents 覆盖长篇/短篇网文全流程（扫榜/拆文/写作/去AI味/封面/导入） | `npx skills add worldwonderer/oh-story-claudecode` |
-
----
-
 ## 代码质量
 
 代码审查、测试、调试。
@@ -164,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | worldwonderer | 强推 | 13 skills + 6 agents 覆盖长篇/短篇网文全流程（扫榜/拆文/写作/去AI味/封面/导入） | `npx skills add worldwonderer/oh-story-claudecode` |
 
 ---
 
