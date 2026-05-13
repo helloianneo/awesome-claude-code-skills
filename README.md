@@ -42,6 +42,7 @@ npx skills list
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
 - [无障碍](#无障碍)
+- [金融 / 投资分析](#金融--投资分析)
 - [合集 / 导航站](#合集--导航站)
 - [怎么选 Skill](#怎么选-skill)
 
@@ -161,6 +162,14 @@ npx skills list
 | Skill | 作者 | 推荐 | 一句话 | 安装 |
 |-------|------|------|--------|------|
 | [Web Accessibility](https://skills.sh/supercent-io/skills-template/web-accessibility) | Supercent | 好用 | 对比度 / 键盘导航 / 语义结构检查 | `npx skills add supercent-io/skills-template@web-accessibility` |
+
+---
+
+## 金融 / 投资分析
+
+| Skill | 作者 | 推荐 | 一句话 | 链接 |
+|-------|------|------|--------|------|
+| [**AI Investment Skills**](https://github.com/tellmefrankie/ai-investment-skills) | tellmefrankie | 强推 | 6 个投资分析 Skill：期权流扫描（捕获 XLI P/C 5.32 异常信号）、9-wave 晨间简报、止损监控、EV 计算器。真实投资组合验证，MIT 开源。 | [GitHub](https://github.com/tellmefrankie/ai-investment-skills) |
 
 ---
 
