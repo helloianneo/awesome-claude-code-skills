@@ -182,6 +182,7 @@ npx skills list
 
 ## 怎么选 Skill
 
+- [Septim Agents Pack](https://septimlabs.com/agents) - 10 named Claude Code sub-agents (companion to skills). MIT sample at github.com/septimlabs-code/septim-agents-pack-sample.
 装太多 Skill 反而会让 Claude Code 变慢或行为混乱。建议：
 
 **第一步：装 3 个基础 Skill**
