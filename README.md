@@ -164,6 +164,16 @@ npx skills list
 
 ---
 
+## 协作 / Agent 网络
+
+让你的 Claude Code Agent 和别人的 Agent 通信。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [Aicoo Skills](https://www.aicoo.io) | Pulse | 强推 | 分享 Agent / Agent 间通信 / 自主 Heartbeat / Square 社区 | `export AICOO_API_KEY=xxx` |
+
+---
+
 ## 合集 / 导航站
 
 不知道该装什么？先看这些合集。
