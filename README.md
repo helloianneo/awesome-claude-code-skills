@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [FlowHunt](https://github.com/heyneuron/flowhunt-skill) | HeyNeuron | 好用 | 自动化发现审查 - 识别业务流程中的自动化机会 | `npx skills add heyneuron/flowhunt-skill` |
 
 ---
 
