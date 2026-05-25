@@ -115,6 +115,8 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [capcut-edit](https://github.com/renezander030/capcut-cli) | renezander030 | 好用 | 命令行编辑剪映 / CapCut 草稿（subtitles · 时长 · 装饰器 · 模板），零依赖 JSON 输出，agent 友好 | `/plugin marketplace add https://github.com/renezander030/capcut-cli` |
+
 
 ---
 
