@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **claude-code-dna** | huangji6693-max 维护，**不装 skill 而是装"DNA"** — Karpathy 4 律 + 15 操作直觉 + 记忆架构 + 194 skill / 99 agent 精选目录 + agentskills.io 合规审计脚本 | [GitHub](https://github.com/huangji6693-max/claude-code-dna) |
 
 ---
 
