@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **claude-code-dna** | Claude Code agent 的行为操作系统：184KB drop-in 包，提供 Karpathy 4 律 + 15 操作直觉 + 三层记忆架构 + 194 skill / 99 agent 合规审计目录。30 秒安装。 | [GitHub](https://github.com/huangji6693-max/claude-code-dna) |
 
 ---
 
