@@ -149,6 +149,8 @@ npx skills list
 
 | Skill | 作者 | 推荐 | 一句话 | 安装 |
 |-------|------|------|--------|------|
+| [小K酱 · iOS AI 开发防踩坑](https://github.com/kellyvai/love-kk-ios-ai-dev) | kellyvai | 强推 | 非技术背景创作者做 iOS App 的全流程陪跑：立项→设计→开发→上架，AI 自动诊断问题 | `npx skills add kellyvai/love-kk-ios-ai-dev@ios-ai-dev` |
+| [小K酱 · 业务操盘手](https://github.com/kellyvai/love-kk-biz-ops) | kellyvai | 强推 | 大组织零资源做 0→1 项目：立项规划 / 系统设计 / 数据指标 / 推动落地四大工作流 | `npx skills add kellyvai/love-kk-biz-ops@biz-ops` |
 | [Superpowers - TDD](https://github.com/obra/superpowers) | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development` |
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
