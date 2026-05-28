@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Alpha Insights](https://github.com/Ericyoung-183/alpha-insights) | Eric Young | 好用 | 商业研究工作流：19 个框架 + 证据分级 + 阶段门控，减少裸 AI 胡扯 | `git clone https://github.com/Ericyoung-183/alpha-insights.git && cp -r alpha-insights ~/.claude/skills/` |
 
 ---
 
