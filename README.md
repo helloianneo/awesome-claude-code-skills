@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **huiyu-safe-ai** | 轻量级AI安全卫士，拦截68+已知恶意软件包，验证身份，代码嗅探，零网络调用 | [GitHub](https://github.com/huiyu9144/huiyu-safe-ai) |
 
 ---
 
@@ -254,3 +255,4 @@ npx skills add vercel-labs/skills@find-skills
 ## License
 
 [MIT](LICENSE)
+
