@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **Claude Skills 中文市集** | 104+ 篇 Claude Code Skills 中文解析，覆盖 superpowers / omc / ecc / gstack 等套件 | [claudeskill.me](https://claudeskill.me) |
 
 ---
 
