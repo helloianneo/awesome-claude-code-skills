@@ -178,6 +178,7 @@ npx skills list
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
 
+| **TWZRD Agent Intel** | Solana AI Agent 信任评分 MCP。在 x402 支付前验证钱包身份。免费：score_agent / preflight_check。付费（x402 USDC）：get_trust_receipt | [intel.twzrd.xyz](https://intel.twzrd.xyz) |
 ---
 
 ## 怎么选 Skill
