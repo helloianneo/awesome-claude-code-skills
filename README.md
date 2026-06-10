@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **CreatorSkills** | 面向内容创作者的 AI Skill 付费市场（YouTube / 品牌合作 / 内容复用），SKILL.md 格式，支持 Claude / ChatGPT / 20+ 平台 | [creatorskills.co](https://creatorskills.co) |
 
 ---
 
