@@ -85,6 +85,7 @@ npx skills list
 | [TypeUI Design Skills](https://www.typeui.sh/design-skills) | TypeUI | 可选 | 手工 skill 文件，复现特定视觉风格 | `npx typeui.sh pull [name]` |
 | [Design.md Generator](https://github.com/google-labs-code/stitch-skills) | Google Labs | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范 | `npx skills add google-labs-code/stitch-skills@design-md` |
 | [Brainstorming](https://github.com/obra/superpowers) | obra | 强推 | 验证设计方案后才允许写代码，防止 AI 乱写 | `npx skills add obra/superpowers@brainstorming` |
+| [ui-craft](https://github.com/educlopez/ui-craft) | educlopez | 强推 | 反 AI Slop 设计工程 skill：评分启发式批评 + 4 套主题预设 + /craft 命令集，支持 Claude Code / Codex / Cursor / Gemini / OpenCode | `npx skills add educlopez/ui-craft` |
 
 ---
 
