@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **Suede Creator Skills** | 面向音乐创作者的 Codex / Claude Skills：release metadata linter + rights passport | [GitHub](https://github.com/JasonColapietro/suede-creator-skills) |
 
 ---
 
