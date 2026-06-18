@@ -37,6 +37,7 @@ npx skills list
 - [必装 Top 10](#必装-top-10)
 - [设计 / UI](#设计--ui)
 - [前端开发](#前端开发)
+- [移动端 / 客户端开发](#移动端--客户端开发)
 - [动效 / 视频](#动效--视频)
 - [营销 / SEO](#营销--seo)
 - [代码质量](#代码质量)
@@ -101,6 +102,16 @@ npx skills list
 | [Find Skills](https://skills.sh/vercel-labs/skills/find-skills) | Vercel Labs | 强推 | 让 Agent 自己发现和安装新 Skill | `npx skills add vercel-labs/skills@find-skills` |
 | [React Best Practices](https://github.com/vercel-labs/agent-skills) | Vercel Labs | 强推 | 45 条 React/Next.js 性能优化规则 | `npx skills add vercel-labs/agent-skills@react-best-practices` |
 | [Ralph Loop](https://github.com/frankbria/ralph-claude-code) | Frank Bria | 好用 | 多小时自主编码 Agent，适合长任务 | `npx skills add frankbria/ralph-claude-code` |
+
+---
+
+## 移动端 / 客户端开发
+
+让 Claude Code 在客户端特定技术栈里少猜 API，多查本地资料。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [harmony-next.skills](https://github.com/linhay/harmony-next.skills) | linhay | 好用 | HarmonyOS NEXT 开发者技能包，本地 ArkTS / ArkUI / API 参考 + DevEco / Emulator / HDC 自动化工作流 | `git clone https://github.com/linhay/harmony-next.skills && mkdir -p ~/.agents/skills && ln -s "$PWD/harmony-next.skills/harmony-next" ~/.agents/skills/harmony-next` |
 
 ---
 
