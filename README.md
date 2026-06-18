@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [RuleDoctor](https://skills.sh/syf2211/ruledoctor/ruledoctor) | syf2211 | 好用 | 改代码前先读 `CLAUDE.md` / `required_reads`，可选拦 force push | `npx skills add syf2211/ruledoctor@ruledoctor` |
 
 ---
 
