@@ -126,6 +126,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [SEO Audit](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 强推 | 五优先级 SEO 全面审查框架 | `npx skills add coreyhaines31/marketingskills@seo-audit` |
 | [Copywriting](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 强推 | 主页 / 落地页 / 定价页转化文案 | `npx skills add coreyhaines31/marketingskills@copywriting` |
+| [NotFair](https://github.com/nowork-studio/NotFair) | nowork-studio | 强推 | SEO / GEO / Google Ads / Meta Ads 全套 Skill，接入 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 实时数据（~2.9k stars） | `npx skills add nowork-studio/NotFair@seo` / `@google-ads` / `@meta-ads` |
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
