@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Motion Graphics Skills](https://github.com/iart-ai/motion-skills) | iart.ai | 强推 | 50 个动效技能合集，14 个包：动态排版 / 数据图表 / 解说视频 / TikTok / 3D WebGL / Manim 数学动画，每个带「渲染→截图→自检」闭环 | `npx skills add iart-ai/tiktok-video-skills`（14 包按需装） |
 
 ---
 
