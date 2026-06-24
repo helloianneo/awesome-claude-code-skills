@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Suede Creator Skills](https://jasoncolapietro.github.io/suede-creator-skills/) | JasonColapietro | 强推 | 21 技能包：创作者权利护照、活动全套方案、SEO/AEO/AI EO 审计、代码评级、设计 QA、代理商务 | `npx skills add JasonColapietro/suede-creator-skills@suede-workflow-skills` |
 
 ---
 
@@ -177,7 +178,6 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
-| **Suede Creator Skills** | 面向音乐创作者的 Codex / Claude Skills：release metadata linter + rights passport | [GitHub](https://github.com/JasonColapietro/suede-creator-skills) |
 
 ---
 
