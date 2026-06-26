@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill) | Alisa0808 | 好用 | 把一句话想法或塞太满的分镜脚本改写成可直接喂模型的文生视频 prompt（Seedance 2.0 / Kling / Veo / Hailuo / Wan / Vidu），中英双语，单个 SKILL.md | `npx github:Alisa0808/vibe-creating-skill` |
 
 ---
 
