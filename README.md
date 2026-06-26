@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Coding Agent PM](https://github.com/kiwi-phantomworks/claude-code-pm-starter-pack/tree/main) | Bridge AI Labs | 好用 | 给长任务编码 Agent 加上 PRD、验收标准、代码审查和重试循环 | `npx skills add kiwi-phantomworks/claude-code-pm-starter-pack@coding-agent-pm` |
 
 ---
 
