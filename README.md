@@ -238,6 +238,11 @@ npx skills add vercel-labs/skills@find-skills
 
 ---
 
+## 相关导航站
+
+- [Skill Hub](https://github.com/rdone4425/skill) — 收录 4133+ AI Agent Skills 的分类索引站，按 22 个类别组织，支持多平台筛选（Claude Code、Codex、Cursor、Hermes、OpenCode）。[在线访问](https://skill.442595.xyz/)
+
+
 ## 贡献
 
 发现好用的 Skill 但这里没收？欢迎提 [Issue](https://github.com/helloianneo/awesome-claude-code-skills/issues) 或 PR。
