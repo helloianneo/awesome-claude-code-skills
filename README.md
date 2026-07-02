@@ -129,6 +129,7 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+| [Threads Skills](https://github.com/sergebulaev/threads-skills) | Sergey Bulaev | 可选 | Threads 平台 5 个 Claude / Codex skill：发帖与多帖串 / 钩子提取 / 去 AI 味 / 回复草稿 / 内容规划，MIT | `/plugin marketplace add sergebulaev/threads-skills` |
 
 ---
 
