@@ -129,6 +129,7 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+| [open-geo](https://github.com/Pupok462/open-geo) | open-geo | 好用 | GEO 可见性审计：读取登录用户真实看到的渲染 AI 答案（真实浏览器 Agent，非 API / 非爬 DOM），输出诚实漏斗（来源 / 引用 / 情感），覆盖 Google AI Overview、ChatGPT、Claude、Gemini、Yandex Alice。MIT | `/plugin marketplace add Pupok462/open-geo` |
 
 ---
 
