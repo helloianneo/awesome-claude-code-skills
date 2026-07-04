@@ -246,6 +246,7 @@ npx skills add vercel-labs/skills@find-skills
 - 有实际使用价值（不是 demo）
 - 能正常安装
 - 有人在用（GitHub stars > 10 或明确的用户反馈）
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 觉得有用？Star 一下方便后续更新时收到通知。
 
