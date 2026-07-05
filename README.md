@@ -254,3 +254,5 @@ npx skills add vercel-labs/skills@find-skills
 ## License
 
 [MIT](LICENSE)
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA templates + 5 skills (open-loops, watchers, CRM, morning-briefing, session-digest). MIT.
