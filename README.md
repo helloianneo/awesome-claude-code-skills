@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Tree Ring Memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin) | TerminallyLazy | 可选 | 本地优先的 Agent 记忆生命周期：召回 / 记录 / 审计 / 遗忘，不把聊天记录当记忆 | `npx skills add TerminallyLazy/tree-ring-memory-claude-plugin@tree-ring-memory` |
 
 ---
 
