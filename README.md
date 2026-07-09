@@ -132,6 +132,7 @@ npx skills list
 
 ---
 
+| [linkedin-growth](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) | Linked API | 可选 | Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests. | `npx skills add Linked-API/linkedin-skills@linkedin-growth` |
 ## 代码质量
 
 代码审查、测试、调试。
