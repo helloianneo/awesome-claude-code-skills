@@ -132,6 +132,7 @@ npx skills list
 
 ---
 
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | Linked API | 可选 | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | `npx skills add Linked-API/linkedin-skills@linkedin` |
 ## 代码质量
 
 代码审查、测试、调试。
