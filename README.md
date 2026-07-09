@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [agent-lsp](https://github.com/blackwell-systems/agent-lsp) | blackwell-systems | 强推 | 编排语言服务器（gopls / rust-analyzer / pyright 等）：影响面分析、查引用 / 调用方、重命名、改动前预览诊断，覆盖 30 种语言 | `npm install -g @blackwell-systems/agent-lsp` |
 
 ---
 
