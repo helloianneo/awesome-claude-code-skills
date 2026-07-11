@@ -41,6 +41,7 @@ npx skills list
 - [营销 / SEO](#营销--seo)
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
+- [终端工具 / 状态栏](#终端工具--状态栏)
 - [无障碍](#无障碍)
 - [合集 / 导航站](#合集--导航站)
 - [怎么选 Skill](#怎么选-skill)
@@ -155,6 +156,14 @@ npx skills list
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
 
 ---
+
+## 终端工具 / 状态栏
+
+让 Claude Code 终端体验更上一层楼。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [RigLine](https://github.com/ZhouYinLong-lab/Dog-RigLine) | ZhouYinLong | 强推 | 🐕 纯 Bash 状态栏，GPU/CPU/RAM 实时监控，跨平台 | `curl -fsSL https://raw.githubusercontent.com/ZhouYinLong-lab/Dog-RigLine/main/install.sh | bash` |
 
 ## 无障碍
 
