@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Vox Director](https://github.com/Alisa0808/vox-director) | Alisa0808 | 好用 | 一句选题 → Vox 拼贴风讲解/广告视频(脚本/关键帧/动效/旁白/配乐/字幕,全自动),Atlas Cloud + ffmpeg | `git clone https://github.com/Alisa0808/vox-director` |
 
 ---
 
