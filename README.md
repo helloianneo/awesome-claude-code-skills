@@ -39,6 +39,7 @@ npx skills list
 - [前端开发](#前端开发)
 - [动效 / 视频](#动效--视频)
 - [营销 / SEO](#营销--seo)
+- [写作 / 去 AI 味](#写作--去-ai-味)
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
 - [无障碍](#无障碍)
@@ -129,6 +130,16 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+
+---
+
+## 写作 / 去 AI 味
+
+去除文本里的 AI 味，把 AI 起草的内容改写得更像真人写的。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [Humanizer](https://github.com/Aboudjem/humanizer-skill) | Aboudjem | 好用 | 去英文 AI 味：53 模式 / 5 语气 / 0-100 评分，另带度量 CLI 和 CI 质量门 | `npx skills add Aboudjem/humanizer-skill` |
 
 ---
 
