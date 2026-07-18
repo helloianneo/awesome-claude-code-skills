@@ -76,6 +76,7 @@ npx skills list
 | [UI-UX-Pro-Max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) | Next Level Builder | 必装 | 视觉层级 x 色彩心理学 x 交互模式，出图质量显著提升 | `npx skills add nextlevelbuilder/ui-ux-pro-max-skill@ui-ux-pro-max` |
 | [Emil Kowalski's Skill](https://skills.sh/emilkowalski/skill) | Emil Kowalski | 必装 | 来自 Sonner / Vaul 作者的设计 + 动效 + 代码实践 | `npx skills add emilkowalski/skill` |
 | [Web Design Guidelines](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines) | Vercel Labs | 必装 | 对照 100+ 最佳实践审查 UI，找出细节问题 | `npx skills add vercel-labs/agent-skills@web-design-guidelines` |
+| [UIZZE](https://www.skills.sh/site/uizze.com/anti-ui-slop) | UIZZE | 强推 | 用 80 万+ 真实 Web / iOS 界面做证据，先定设计契约，交付前拦截模板化 UI | `npx skills add samuelbushi/uizze --skill anti-ui-slop` |
 | [Make Interfaces Feel Better](https://skills.sh/jakubkrehel/make-interfaces-feel-better) | Jakub Krehel | 强推 | 对齐 / 阴影 / 间距 / 圆角的细节打磨 | `npx skills add jakubkrehel/make-interfaces-feel-better` |
 | [Figma Designer](https://github.com/anthropics/claude-code) | Anthropic | 好用 | Claude 进入 Figma 高级设计师思维模式 | `npx claude skills add figma` |
 | [Theme Factory](https://github.com/anthropics/claude-code) | Anthropic | 好用 | 10 套配色 + 字体主题，套用到任意 artifact | `npx claude skills add theme-factory` |
