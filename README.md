@@ -78,9 +78,9 @@ npx skills list
 | [Web Design Guidelines](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines) | Vercel Labs | 必装 | 对照 100+ 最佳实践审查 UI，找出细节问题 | `npx skills add vercel-labs/agent-skills@web-design-guidelines` |
 | [Make Interfaces Feel Better](https://skills.sh/jakubkrehel/make-interfaces-feel-better) | Jakub Krehel | 强推 | 对齐 / 阴影 / 间距 / 圆角的细节打磨 | `npx skills add jakubkrehel/make-interfaces-feel-better` |
 | [Figma Designer](https://github.com/anthropics/claude-code) | Anthropic | 好用 | Claude 进入 Figma 高级设计师思维模式 | `npx claude skills add figma` |
-| [Theme Factory](https://github.com/anthropics/claude-code) | Anthropic | 好用 | 10 套配色 + 字体主题，套用到任意 artifact | `npx claude skills add theme-factory` |
-| [Brand Guidelines](https://github.com/anthropics/claude-code) | Anthropic | 好用 | Anthropic 官方品牌规范（色 / 字 / 视觉） | `npx claude skills add brand-guidelines` |
-| [Canvas Design](https://github.com/anthropics/claude-code) | Anthropic | 好用 | 生成海报 / 插画，输出 PNG / PDF | `npx claude skills add canvas-design` |
+| [Theme Factory](https://skills.sh/anthropics/skills/theme-factory) | Anthropic | 好用 | 10 套配色 + 字体主题，套用到任意 artifact | `npx skills add anthropics/skills@theme-factory` |
+| [Brand Guidelines](https://skills.sh/anthropics/skills/brand-guidelines) | Anthropic | 好用 | Anthropic 官方品牌规范（色 / 字 / 视觉） | `npx skills add anthropics/skills@brand-guidelines` |
+| [Canvas Design](https://skills.sh/anthropics/skills/canvas-design) | Anthropic | 好用 | 生成海报 / 插画，输出 PNG / PDF | `npx skills add anthropics/skills@canvas-design` |
 | [SuperKit UI/UX](https://skillsmp.com/skills/pixel-process-ug-superkit-agents-templates-skills-ui-ux-pro-max-skill-md) | Pixel Process UG | 好用 | 50+ 风格 / 97 色板 / 57 字体配对 | `npx skills add Pixel-Process-UG/superkit-agents` |
 | [TypeUI Design Skills](https://www.typeui.sh/design-skills) | TypeUI | 可选 | 手工 skill 文件，复现特定视觉风格 | `npx typeui.sh pull [name]` |
 | [Design.md Generator](https://github.com/google-labs-code/stitch-skills) | Google Labs | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范 | `npx skills add google-labs-code/stitch-skills@design-md` |
@@ -129,6 +129,7 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+| [Xquik X/Twitter Scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) | Xquik | 可选 | 通过 Xquik 托管服务搜索、导出和监控 X 数据，支持 REST / MCP / Webhooks，需 API key | `npx skills add Xquik-dev/x-twitter-scraper@x-twitter-scraper` |
 
 ---
 
@@ -254,3 +255,5 @@ npx skills add vercel-labs/skills@find-skills
 ## License
 
 [MIT](LICENSE)
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
