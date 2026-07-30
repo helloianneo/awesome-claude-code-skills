@@ -151,6 +151,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers - TDD](https://github.com/obra/superpowers) | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development` |
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
+| [octopus-skill](https://github.com/levi-qiao/octopus-skill) | levi-qiao | 推荐 | 长周期 agent skill：持久 ledger + 清洁上下文监督者 + 可验证闸门，抑制 agent 漂移；支持 Claude Code / Cursor / Codex / Grok | `/plugin marketplace add levi-qiao/octopus-skill` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
 
