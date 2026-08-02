@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Filaxy Watch](https://github.com/othmarodev/Filaxy-whatch_skill_for_claude) | othmarodev（fork 自 Brad Bonanno 的 claude-video，MIT） | 好用 | 让 Claude 真正"看"视频：抽帧 + 转录字幕，基于真实画面和音频回答，而不是瞎猜标题 | `npx skills add othmarodev/Filaxy-whatch_skill_for_claude@filaxy-watch` |
 
 ---
 
