@@ -149,6 +149,7 @@ npx skills list
 
 | Skill | 作者 | 推荐 | 一句话 | 安装 |
 |-------|------|------|--------|------|
+| [Spendcap](https://github.com/Arnie016/spendcap) | Arnie016 | 好用 | 访谈你的模型预算 + 扫描仓库结构，编译可执行的路由策略（同意上限才升级） | `npx skills add Arnie016/spendcap@spendcap` |
 | [Superpowers - TDD](https://github.com/obra/superpowers) | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development` |
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
