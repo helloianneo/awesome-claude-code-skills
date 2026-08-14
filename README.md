@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Using LWC](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | JanYork | 好用 | 跨会话持久化项目记忆，支持来源引用、全文检索和可选文档/代码图谱 | `npx skills add JanYork/llm-wiki-cli --skill using-lwc` |
 
 ---
 
