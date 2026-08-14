@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Science Research Writing](https://github.com/Justinjchen-Cornell/Science-Research-Writing-Skill) | Justin Chen | 好用 | 学术论文写作方法：7 个章节模型 + 可填写模板 + 时态/情态动词/连接词决策系统 | `npx skills add Justinjchen-Cornell/Science-Research-Writing-Skill` |
 
 ---
 
