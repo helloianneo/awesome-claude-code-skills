@@ -41,6 +41,7 @@ npx skills list
 - [营销 / SEO](#营销--seo)
 - [代码质量](#代码质量)
 - [工作流 / 方法论](#工作流--方法论)
+- [学习 / 阅读](#学习--阅读)
 - [无障碍](#无障碍)
 - [合集 / 导航站](#合集--导航站)
 - [怎么选 Skill](#怎么选-skill)
@@ -153,6 +154,16 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+
+---
+
+## 学习 / 阅读
+
+精读图书、论文与长文，把内容拆成可复用的知识。
+
+| Skill | 作者 | 推荐 | 一句话 | 安装 |
+|-------|------|------|--------|------|
+| [dsh-deepread](https://github.com/xiehuan123/dsh-deepread) | xiehuan123 | 好用 | 五种模式精读图书与文章（快速/深度/知识地图/费曼/全书），输出观点—证据—数据报告、四档置信度、Mermaid/XMind 思维导图，可导出 MD/MM/HTML | `npx skills add xiehuan123/dsh-deepread` |
 
 ---
 
