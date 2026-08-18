@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **AgentBody Skills** | AgentBody 维护，MCP-backed：X/Twitter 研究、文档解析、线索发现、竞品监控、自然化写作 | [GitHub](https://github.com/agentbody/skills) |
 
 ---
 
