@@ -153,7 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
-| [Suede Creator Skills](https://jasoncolapietro.github.io/suede-creator-skills/) | JasonColapietro | 强推 | 21 技能包：创作者权利护照、活动全套方案、SEO/AEO/AI EO 审计、代码评级、设计 QA、代理商务 | `npx skills add JasonColapietro/suede-creator-skills@suede-workflow-skills` |
+| [Suede Creator Skills](https://jasoncolapietro.github.io/suede-creator-skills/) | JasonColapietro | 强推 | 开源技能包：创作者权利护照、活动全套方案、SEO/AEO/AI EO 审计、代码评级、设计 QA、代理商务 | `npx skills add JasonColapietro/suede-creator-skills@suede-workflow-skills` |
 
 ---
 
