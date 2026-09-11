@@ -195,6 +195,8 @@ npx skills add obra/superpowers
 
 # 文档查询
 npx skills add intellectronica/agent-skills@context7
+# 网页/文档/音视频解析
+npx skills add sensedeal/cue-skills --skill cue-omni-reader
 ```
 
 **第二步：按你的方向加 1-2 个**
