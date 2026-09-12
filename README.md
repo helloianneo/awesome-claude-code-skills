@@ -114,6 +114,7 @@ npx skills list
 | [Motion (Framer Motion)](https://skills.sh/jezweb/claude-skills/motion) | Jezweb | 强推 | React 动画：手势 / 滚动 / 弹性 / 布局 | `npx skills add jezweb/claude-skills@motion` |
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
+| [i-hate-editing](https://github.com/ranahaani/i-hate-editing) | ranahaani | 好用 | 本地 whisper + ffmpeg，把 talking-head 粗剪成可发布成片（67 条规则） | `npx skills add ranahaani/i-hate-editing` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
 
 ---
