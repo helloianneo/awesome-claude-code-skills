@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [agent-qa](https://github.com/vostride/agent-qa) | Vostride | 好用 | 用自然语言写 Web / 移动端回归测试，跑完自动定位失败原因并给出修复范围 | `npm i -D agent-qa` 后 `npx agent-qa skills` |
 
 ---
 
