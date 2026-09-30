@@ -171,6 +171,7 @@ npx skills list
 | 资源 | 说明 | 链接 |
 |------|------|------|
 | **Awesome Agent Skills** | VoltAgent 维护，549+ skills，分类最全 | [GitHub](https://github.com/VoltAgent/awesome-agent-skills) |
+| **Agent Skills Library** | ssrjkk 维护，100 bilingual (EN+RU) skills，16 领域，100% quality | [GitHub](https://github.com/ssrjkk/agent-skills) |
 | **Awesome Claude Code Toolkit** | Rohit Ghumare 维护，135 agents + 35 skills | [GitHub](https://github.com/rohitg00/awesome-claude-code-toolkit) |
 | **Awesome Claude Code** | hesreallyhim 维护，skills + hooks + 命令 | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) |
 | **skills.sh** | Vercel 出的 Skill 包管理器和浏览站 | [skills.sh](https://skills.sh) |
