@@ -176,6 +176,7 @@ npx skills list
 | **skills.sh** | Vercel 出的 Skill 包管理器和浏览站 | [skills.sh](https://skills.sh) |
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
+| **AgentHub** | 中文 MCP Server 与 Agent Skills 资源导航站，支持一键安装到 Cursor、Claude Code、VS Code、Trae | [myagenthub.cn](https://myagenthub.cn) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
 
 ---
