@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [nopekit](https://github.com/neuman/nopekit) | neuman | 可选 | 实体硬件设计（CAD / 3D 打印 / 热学 / 结构）的证伪式检查，每个检查都必须证明自己能失败 | `/plugin marketplace add neuman/nopekit` → `/plugin install nopekit` |
 
 ---
 
