@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [Code Review Skill](https://github.com/kyy-logs/code-review-skill) | kyy-logs | 推荐 | 四探针并行、证据可核验的静态代码审查，输出 JSON 门禁；中英双语，支持 Claude Code / Codex | `npx skills add kyy-logs/code-review-skill --skill code-review` |
 
 ---
 
