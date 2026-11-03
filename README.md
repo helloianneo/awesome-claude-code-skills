@@ -101,6 +101,7 @@ npx skills list
 | [Find Skills](https://skills.sh/vercel-labs/skills/find-skills) | Vercel Labs | 强推 | 让 Agent 自己发现和安装新 Skill | `npx skills add vercel-labs/skills@find-skills` |
 | [React Best Practices](https://github.com/vercel-labs/agent-skills) | Vercel Labs | 强推 | 45 条 React/Next.js 性能优化规则 | `npx skills add vercel-labs/agent-skills@react-best-practices` |
 | [Ralph Loop](https://github.com/frankbria/ralph-claude-code) | Frank Bria | 好用 | 多小时自主编码 Agent，适合长任务 | `npx skills add frankbria/ralph-claude-code` |
+| [BrowserAct](https://github.com/browser-act/skills/tree/main/browser-act) | BrowserAct | 好用 | 面向 AI Agent 的浏览器自动化 CLI，支持复用 Chrome 登录态、隔离会话和人工接管 | `npx skills add browser-act/skills@browser-act` |
 
 ---
 
