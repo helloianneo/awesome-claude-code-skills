@@ -149,6 +149,7 @@ npx skills list
 
 | Skill | 作者 | 推荐 | 一句话 | 安装 |
 |-------|------|------|--------|------|
+| [Birdview](https://github.com/Qiuner/birdview) | Qiuner | 强推 | 读取源码生成架构、约束和变更范围视图，提供证据链接，并记录实现后的实际验证结果 | `npx skills add Qiuner/birdview --skill birdview` |
 | [Superpowers - TDD](https://github.com/obra/superpowers) | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development` |
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
