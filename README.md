@@ -128,6 +128,8 @@ npx skills list
 | [Copywriting](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 强推 | 主页 / 落地页 / 定价页转化文案 | `npx skills add coreyhaines31/marketingskills@copywriting` |
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
+| [Firecrawl SEO Audit](https://github.com/firecrawl/skills) | Firecrawl | 好用 | 抓取页面源码，检查 title / meta / 标题层级 / canonical / 结构化数据 / 内链，按优先级给出修复建议 | `npx skills add firecrawl/skills@firecrawl-seo-audit` |
+| [Firecrawl Competitive Intel](https://github.com/firecrawl/skills) | Firecrawl | 好用 | 抓取竞品定价页 / 功能页 / 更新日志，跟踪价格和功能变化，输出带来源的对比表 | `npx skills add firecrawl/skills@firecrawl-competitive-intel` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
 
 ---
