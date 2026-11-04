@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [show-me-the-receipts](https://github.com/lohyeulam-stack/show-me-the-receipts) | lohyeulam-stack | 强推 | 汇报输出纪律：结论第一行、证据分四级（事实/推断/假设/猜测）、行动绑定负责人+截止日+交付物、去 AI 味 | `npx skills add lohyeulam-stack/show-me-the-receipts` |
 
 ---
 
