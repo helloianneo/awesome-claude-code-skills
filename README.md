@@ -63,6 +63,7 @@ npx skills list
 | 8 | [**Remotion**](https://github.com/remotion-dev/skills) | Remotion | React 驱动的视频生成，30+ 规则 | `npx skills add remotion-dev/skills@remotion-best-practices` |
 | 9 | [**Tailwind CSS**](https://skills.sh/hairyf/skills/tailwindcss) | hairyf | Tailwind v4 完整支持 | `npx skills add hairyf/skills@tailwindcss` |
 | 10 | [**Find Skills**](https://skills.sh/vercel-labs/skills/find-skills) | Vercel Labs | 让 Agent 自己发现和安装新 Skill | `npx skills add vercel-labs/skills@find-skills` |
+| [CrakSEO/skills](https://github.com/CrakSEO/skills) | Connect Claude/Cursor/Codex to CrakSEO remote MCP servers for keyword research, SERP, backlinks, rank tracking, site audit, local SEO, AI visibility, Search Console and URL indexing | Claude Code, Cursor, Codex | MIT |
 
 ---
 
