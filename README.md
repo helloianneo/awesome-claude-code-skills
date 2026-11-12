@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **HowAI** | 按产出分类的 Agent Skills 浏览站，带示例预览与 Claude Code / Codex / Cursor 安装指南 | [howai.build](https://howai.build) |
 
 ---
 
@@ -260,3 +261,4 @@ GitHub 万星、Dribbble 万粉，用 AI 做好玩的东西，探索 AI + 自由
 ## License
 
 [MIT](LICENSE)
+
