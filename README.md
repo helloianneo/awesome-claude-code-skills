@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [AlphaDrama Short-Drama](https://github.com/Alwzc/alphadrama-short-drama-skill) | Alwzc | 好用 | 网文改 9:16 竖屏短剧剧本、三视图角色一致性、分镜与 Seedance/可灵/Wan/Veo 视频提示词 | `npx skills add Alwzc/alphadrama-short-drama-skill` |
 
 ---
 
