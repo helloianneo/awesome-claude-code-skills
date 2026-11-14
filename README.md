@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **HOL Plugins** | AI 插件发现目录，收录 Claude Code、Codex 等工具的插件与 MCP 服务器 | [hol.org/plugins](https://hol.org/plugins) |
 
 ---
 
