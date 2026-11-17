@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) | LiveCore AI | 强推 | 自主云端 AI 视频剪辑：高光切片、280+ 动态字幕模板、9:16 竖屏人物追踪、B-roll 动效与云端 MP4 导出 | `npx skills add brajendrak00068/agentic-ai-video-production@levea-ai-video-editor` |
 
 ---
 
