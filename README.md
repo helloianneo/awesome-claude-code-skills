@@ -85,6 +85,7 @@ npx skills list
 | [TypeUI Design Skills](https://www.typeui.sh/design-skills) | TypeUI | 可选 | 手工 skill 文件，复现特定视觉风格 | `npx typeui.sh pull [name]` |
 | [Design.md Generator](https://github.com/google-labs-code/stitch-skills) | Google Labs | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范 | `npx skills add google-labs-code/stitch-skills@design-md` |
 | [Brainstorming](https://github.com/obra/superpowers) | obra | 强推 | 验证设计方案后才允许写代码，防止 AI 乱写 | `npx skills add obra/superpowers@brainstorming` |
+| [html-anything](https://github.com/clockless-org/html-anything) | Clockless | 强推 | 文件 / 导出 / 链接 → 单文件 HTML 网页，16 个设计系统自动选（lesson lab / map atlas / timeline story / relationship / network map / dashboard / document / …） | `npx skills add clockless-org/html-anything` |
 
 ---
 
