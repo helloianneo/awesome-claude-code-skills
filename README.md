@@ -153,6 +153,7 @@ npx skills list
 | [Superpowers - Parallel Agents](https://github.com/obra/superpowers) | obra | 强推 | 多个子 Agent 并行执行独立任务 | `npx skills add obra/superpowers@dispatching-parallel-agents` |
 | [Superpowers - Plan Mode](https://github.com/obra/superpowers) | obra | 强推 | 先规划再执行，防止 AI 乱改代码 | `npx skills add obra/superpowers@writing-plans` |
 | [Superpowers - Git Worktrees](https://github.com/obra/superpowers) | obra | 好用 | 隔离工作区，不影响主分支 | `npx skills add obra/superpowers@using-git-worktrees` |
+| [Dayan Enterprise Skills](https://github.com/Kosmoray/dayan-enterprise-ai-skills) | 雷可扬 | 强推 | 中文去 AI 味、合同四视角审阅、高分投标打分闭环等 66 枚实战技能 | `npx skills add Kosmoray/dayan-enterprise-ai-skills@dayan-humanize-pro` |
 
 ---
 
