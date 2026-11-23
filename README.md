@@ -129,6 +129,7 @@ npx skills list
 | [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音 | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
 | [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架 | `npx skills add coreyhaines31/marketingskills@pricing-strategy` |
 | [Twitter Automation](https://github.com/inferen-sh/skills) | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation` |
+| [last30days](https://github.com/mvanhorn/last30days-skill) | Matt Van Horn | 好用 | 调研任意话题过去 30 天的 Reddit / X / YouTube / HN / Polymarket 讨论，按真实互动排序，输出带引用的简报 | `npx skills add mvanhorn/last30days-skill` |
 
 ---
 
