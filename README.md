@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [OmniForge Skills](https://skills.sh/zColdWater/omniforge-skills) | OmniForge | 好用 | 50 项只读上线前安全（Supabase RLS/Next.js/CSP）、邮件 DNS（SPF/DMARC）与 /llms.txt 体检技能 | `npx skills add zColdWater/omniforge-skills` |
 
 ---
 
