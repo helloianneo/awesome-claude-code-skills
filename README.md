@@ -244,6 +244,11 @@ GitHub 万星、Dribbble 万粉，用 AI 做好玩的东西，探索 AI + 自由
 
 ---
 
+
+## 公共数据 API（Apify）
+
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - 适用于 Claude Code、Codex、Copilot、Cursor、Gemini CLI 的 Agent Skills + MCP 插件，覆盖 18 个公共数据 Apify Actor：美国联邦合同与资助、欧盟/英国招标、市议会会议、招聘职位、公司社交账号、Google 广告、Etsy、体育赔率、Spotify.
+
 ## 贡献
 
 发现好用的 Skill 但这里没收？欢迎提 [Issue](https://github.com/helloianneo/awesome-claude-code-skills/issues) 或 PR。
