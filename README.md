@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **网赚案例库 AI Skills** | 15 个已核验 AI agent skills for making money，覆盖营销/SEO/视频/社媒/电商 | [网站](https://wz.790221.xyz/tools.html) |
 
 ---
 
