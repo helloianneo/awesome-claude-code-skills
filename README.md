@@ -115,6 +115,7 @@ npx skills list
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme | 强推 | Stripe / Linear / Apple 级别网页动效 | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
 | [AI Video Generation](https://github.com/inferen-sh/skills) | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok） | `npx skills add inferen-sh/skills@ai-video-generation` |
 | [Nano Banana 2](https://github.com/inferen-sh/skills) | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出 | `npx skills add inferen-sh/skills@nano-banana-2` |
+| [Camera Prompt QuickCheck](https://github.com/287523023qq-hue/camera-prompt-quickcheck) | Guopeng | 实用 | 零依赖 Python 视频运镜提示词预检，拦截 zoom/dolly 冲突与多轴飘移（Runway/Kling/Sora/Veo） | `npx skills add 287523023qq-hue/camera-prompt-quickcheck` |
 
 ---
 
