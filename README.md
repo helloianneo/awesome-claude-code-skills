@@ -177,6 +177,7 @@ npx skills list
 | **LobeHub Skills** | 232+ skills 的可视化浏览 | [lobehub.com/skills](https://lobehub.com/skills) |
 | **hotkeys.design** | 设计师向的 Skill 导航站 | [hotkeys.design](https://hotkeys.design) |
 | **awesomeskills.dev** | 跨平台 Agent Skill 目录 | [awesomeskills.dev](https://awesomeskills.dev) |
+| **GameSkill** | 游戏开发 Agent Skills / MCP 导航站与 16 个零登录实机实验台（Godot / Unity / Unreal / Phaser） | [gameskill.dev](https://gameskill.dev) |
 
 ---
 
