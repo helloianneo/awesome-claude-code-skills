@@ -140,6 +140,7 @@ npx skills list
 |-------|------|------|--------|------|
 | [Superpowers](https://github.com/obra/superpowers) | obra | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers` |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review) | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量） | `npx skills add supercent-io/skills-template@code-review` |
+| [AdaptOrch](https://github.com/dmae97/Adaptorch-MCP) | dmae97 | 推荐 | DAG 拓扑路由 + 多模型合成 + 可验证执行回执（[adaptorch.com](https://adaptorch.com/#proof)） | `claude plugin marketplace add dmae97/Adaptorch-MCP` |
 
 ---
 
